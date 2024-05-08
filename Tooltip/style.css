@@ -16,7 +16,7 @@ body {
 .avatar {
     width: 10rem;
     height: 10rem;
-    background-image: url('/img.avif');
+    background-image: url('./img.avif');
     background-position: center;
     background-size: cover;
     border-radius: 50%;
