@@ -2,12 +2,11 @@
 
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS3) ![HTML](https://img.shields.io/badge/HTML-red?logo=HTML5&logoColor=white)
 
+## Features
+
 ### ⚡ Animated Loading Spinners
 
-<video autoPlay muted loop playsInline>
-    <source src="./AnimatedLoadingSpinner/animated-loading-spinners.mp4" />
-    Your browser does not support the video tag.
-</video>
+https://github.com/Ivaylo-St-Ivanov/CSS-only/assets/112113268/074517b3-40c9-4d3e-902c-179b150a422e
 
 ### ⚡ Image Hover Effects
 
@@ -19,17 +18,11 @@
   - slides the text from different directions and fades in the background
   - and the last one changes the background to grayscale
 
-<video autoPlay muted loop playsInline>
-    <source src="./ImageHoverEffects/image-hover-effects.mp4" />
-    Your browser does not support the video tag.
-</video>
+https://github.com/Ivaylo-St-Ivanov/CSS-only/assets/112113268/47eed111-d9c2-4249-91db-ed6d54f36357
 
 ### ⚡ Tooltip
 
-<video autoPlay muted loop playsInline>
-    <source src="./Tooltip/tooltip.mp4" />
-    Your browser does not support the video tag.
-</video>
+https://github.com/Ivaylo-St-Ivanov/CSS-only/assets/112113268/7bab3eee-4609-44f1-9875-840b6db45396
 
 ## Run Locally
 
