@@ -1,0 +1,59 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+
+    perspective: 50rem;
+}
+
+.box {
+    width: 15rem;
+    height: 8rem;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 500ms ease-in-out;
+    transform: translateZ(-4rem);       /* w */
+}
+
+.box:hover {
+    /* transform: rotateX(-90deg); */
+    transform: rotateX(-90deg) translateY(4rem);   /* w */
+}
+
+.side {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+
+    backface-visibility: hidden;
+}
+
+.default-side {
+    background-color: white;
+    border: 0.5rem solid black;
+    color: blueviolet;
+    transform: translateZ(4rem);       /* w */
+}
+
+.hover-side {
+    color: white;
+    background-color: blueviolet;
+    border: 0.5rem solid black;
+    /* transform: rotateX(90deg); */
+    transform: rotateX(90deg) translateZ(4rem);   /* w */
+}
