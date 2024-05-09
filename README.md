@@ -8,6 +8,10 @@
 
 https://github.com/Ivaylo-St-Ivanov/CSS-only/assets/112113268/074517b3-40c9-4d3e-902c-179b150a422e
 
+### ⚡ Rotete Box on Hover
+
+https://github.com/Ivaylo-St-Ivanov/CSS-only/assets/112113268/e85a4746-6592-47dc-96cd-e1f3aebd0ffa
+
 ### ⚡ Image Hover Effects
 
 - loads random photos from https://picsum.photos
